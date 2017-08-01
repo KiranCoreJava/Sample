@@ -48,3 +48,5 @@ Temporary Items
 .classpath
 *.prefs
 bin/ge/hsbc/cts/lowes/capitalone/PrintsForEverySecond$1.class
+bin/ge/hsbc/cts/lowes/capitalone/PrintsForEverySecond.class
+*.project
