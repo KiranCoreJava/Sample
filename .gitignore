@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.classpath
+*.prefs
+bin/ge/hsbc/cts/lowes/capitalone/PrintsForEverySecond$1.class
