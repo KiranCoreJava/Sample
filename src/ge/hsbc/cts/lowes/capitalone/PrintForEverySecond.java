@@ -1,10 +1,9 @@
 package ge.hsbc.cts.lowes.capitalone;
 
-import java.util.Date;
 import java.util.Timer;
 import java.util.TimerTask;
 
-public class PrintsForEverySecond {
+public class PrintForEverySecond {
 
 	public static void main(String[] args) {
 		System.out.println("test");
